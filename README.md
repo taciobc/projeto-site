@@ -1,2 +1,3 @@
-# projeto-site
- site de divugação de redes sociais
+# projeto-das-redes-sociais
+
+eu vou ser um programador
